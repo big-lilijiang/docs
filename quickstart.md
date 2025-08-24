@@ -3,7 +3,7 @@ title: "Quickstart"
 description: "Start building awesome documentation in minutes"
 ---
 
-## Get started in three steps
+## Get started in three steps哈哈哈
 
 Get your documentation site running locally and make your first customization.
 
@@ -39,7 +39,7 @@ Get your documentation site running locally and make your first customization.
     2. Change the `"name"` field to your project name.
     3. Update the `"colors"` to match your brand.
     4. Save and see your changes instantly at `http://localhost:3000`.
-
+    
     <Tip>Try changing the primary color to see an immediate difference!</Tip>
   </Accordion>
 </AccordionGroup>
